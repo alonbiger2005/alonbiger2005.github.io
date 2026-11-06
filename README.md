@@ -1,3 +1,3 @@
-# Alon Biger, portfolio
+# Moved
 
-The built site served at https://alonbiger2005.github.io. Generated; don't edit by hand.
+Alon Biger's portfolio now lives at https://alonbiger.netlify.app. This repo only redirects old links there.
